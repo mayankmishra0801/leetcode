@@ -13,65 +13,65 @@ class Solution {
 public:
     bool isSameTree(TreeNode* p, TreeNode* q) {
              
-        //   if(p == NULL && q == NULL){
-        //     return true;
-        //   }
-        //   if(p == NULL || q == NULL)
-        //       return false;
+          if(p == NULL && q == NULL){
+            return true;
+          }
+          if(p == NULL || q == NULL)
+              return false;
             
         
            
-        //    if(p->val != q->val)
-        //      return false;
-
-
-            
-        //     return isSameTree(p->left, q->left) && isSameTree(p->right,q->right);
-
-           
-        
-        if(p == NULL && q == NULL)
-           return true;
-        
-        if(p == NULL || q == NULL)
+           if(p->val != q->val)
              return false;
 
-         queue<TreeNode*> que1;
-         queue<TreeNode*> que2;
 
-         que1.push(p);
-         que2.push(q);
+            
+            return isSameTree(p->left, q->left) && isSameTree(p->right,q->right);
 
-         while(!que1.empty() && !que2.empty()){
-            TreeNode* node1 = que1.front(); que1.pop();
-            TreeNode* node2 = que2.front(); que2.pop();
+           
+        
+    //     if(p == NULL && q == NULL)
+    //        return true;
+        
+    //     if(p == NULL || q == NULL)
+    //          return false;
 
-            if(node1->val != node2->val)
-               return false;
+    //      queue<TreeNode*> que1;
+    //      queue<TreeNode*> que2;
 
-            if(node1->left != NULL && node2->left != NULL){
-                que1.push(node1->left);
-                que2.push(node2->left);
+    //      que1.push(p);
+    //      que2.push(q);
 
-            }else if(node1->left != NULL || node2->left != NULL){
+    //      while(!que1.empty() && !que2.empty()){
+    //         TreeNode* node1 = que1.front(); que1.pop();
+    //         TreeNode* node2 = que2.front(); que2.pop();
+
+    //         if(node1->val != node2->val)
+    //            return false;
+
+    //         if(node1->left != NULL && node2->left != NULL){
+    //             que1.push(node1->left);
+    //             que2.push(node2->left);
+
+    //         }else if(node1->left != NULL || node2->left != NULL){
                   
-                  return false;
+    //               return false;
 
-            }
+    //         }
 
-                     if(node1->right != NULL && node2->right != NULL){
-                que1.push(node1->left);
-                que2.push(node2->left);
+    //                  if(node1->right != NULL && node2->right != NULL){
+    //             que1.push(node1->left);
+    //             que2.push(node2->left);
 
-            }else if(node1->right != NULL || node2->right != NULL){
+    //         }else if(node1->right != NULL || node2->right != NULL){
                   
-                  return false;
+    //               return false;
 
-            }
-         }
+    //         }
+    //      }
 
               
-           return true;
+    //        return true;
 
         
     }
