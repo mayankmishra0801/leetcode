@@ -17,22 +17,39 @@ public:
 
 
 
-    //m-2
-    int n = nums.size();
-    vector<int> leftMaxi(n);
-    vector<int> rightMaxl(n);
+    // //m-2
+    // int n = nums.size();
+    // vector<int> leftMaxi(n);
+    // vector<int> rightMaxl(n);
 
-    for(int j = 1;j<n;j++){
-        leftMaxi[j] = max(leftMaxi[j-1],nums[j-1]);
-    }
+    // for(int j = 1;j<n;j++){
+    //     leftMaxi[j] = max(leftMaxi[j-1],nums[j-1]);
+    // }
 
-    for(int j = n-2;j>=0;j--){
-        rightMaxl[j] = max(rightMaxl[j+1],nums[j+1]);
-    }
+    // for(int j = n-2;j>=0;j--){
+    //     rightMaxl[j] = max(rightMaxl[j+1],nums[j+1]);
+    // }
+    // long long result = 0;
+
+    // for(int j = 1;j<n;j++){
+    //     result = max(result,(long long)(leftMaxi[j] - nums[j])*rightMaxl[j]);
+    // }
+
+    // return result;
+
+// m-3
+    
+
+     int n = nums.size();
     long long result = 0;
+    long long maxDiff = 0;
+    long long maxi = 0;
 
-    for(int j = 1;j<n;j++){
-        result = max(result,(long long)(leftMaxi[j] - nums[j])*rightMaxl[j]);
+
+    for(int k = 0;k<n;k++){
+        result = max(result,maxDiff*nums[k]);
+        maxDiff = max(maxDiff,maxi - nums[k]);
+        maxi = max(maxi, (long long)nums[k]);
     }
 
     return result;
