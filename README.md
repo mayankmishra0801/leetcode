@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0027-remove-element](https://github.com/mayankmishra0801/leetcode/tree/main/0027-remove-element/) | Easy |
+| [0033-search-in-rotated-sorted-array](https://github.com/mayankmishra0801/leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mayankmishra0801/leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [1306-jump-game-iii](https://github.com/mayankmishra0801/leetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/mayankmishra0801/leetcode/tree/main/1345-jump-game-iv/) | Hard |
@@ -41,6 +42,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/mayankmishra0801/leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mayankmishra0801/leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
