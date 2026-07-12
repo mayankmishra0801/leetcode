@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/mayankmishra0801/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0027-remove-element](https://github.com/mayankmishra0801/leetcode/tree/main/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/mayankmishra0801/leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0053-maximum-subarray](https://github.com/mayankmishra0801/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mayankmishra0801/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mayankmishra0801/leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/mayankmishra0801/leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -26,6 +27,7 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/mayankmishra0801/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/mayankmishra0801/leetcode/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -46,6 +48,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/mayankmishra0801/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mayankmishra0801/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/mayankmishra0801/leetcode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 ## Binary Search
