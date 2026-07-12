@@ -27,6 +27,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mayankmishra0801/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/mayankmishra0801/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [1345-jump-game-iv](https://github.com/mayankmishra0801/leetcode/tree/main/1345-jump-game-iv/) | Hard |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/mayankmishra0801/leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Math
@@ -67,8 +68,10 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mayankmishra0801/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/mayankmishra0801/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mayankmishra0801/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/mayankmishra0801/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 <!---LeetCode Topics End-->
