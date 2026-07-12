@@ -19,6 +19,7 @@
 | ------- | ------- |
 | [0027-remove-element](https://github.com/mayankmishra0801/leetcode/tree/main/0027-remove-element/) | Easy |
 | [0061-rotate-list](https://github.com/mayankmishra0801/leetcode/tree/main/0061-rotate-list/) | Medium |
+| [0125-valid-palindrome](https://github.com/mayankmishra0801/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -69,6 +70,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mayankmishra0801/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/mayankmishra0801/leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0125-valid-palindrome](https://github.com/mayankmishra0801/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/mayankmishra0801/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
