@@ -56,6 +56,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/mayankmishra0801/leetcode/tree/main/0061-rotate-list/) | Medium |
+| [0206-reverse-linked-list](https://github.com/mayankmishra0801/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -116,4 +117,8 @@
 | [0191-number-of-1-bits](https://github.com/mayankmishra0801/leetcode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0268-missing-number](https://github.com/mayankmishra0801/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/mayankmishra0801/leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/mayankmishra0801/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
