@@ -3,22 +3,33 @@
  * @return {number}
  */
 var missingNumber = function(nums) {
-    nums.sort((a,b)=> a-b);
+    // nums.sort((a,b)=> a-b);
 
 
-    for(let i = 0;i<nums.length;i++){
-        if(nums[i] !== i) return i;
+    // for(let i = 0;i<nums.length;i++){
+    //     if(nums[i] !== i) return i;
 
+    // }
+
+    // return nums.length;
+
+
+    // let xor = nums.length;
+    // for(let i = 0;i<nums.length;i++){
+    //     xor ^= i;
+    //     xor ^= nums[i];
+    // }
+
+    // return xor;
+
+
+    const n = nums.length;
+    let expectedSum = (n*(n+1))/2;
+
+    for(let num of nums){
+        expectedSum -= num;
     }
 
-    return nums.length;
+    return expectedSum;
 
-
-    let xor = nums.length;
-    for(let i = 0;i<nums.length;i++){
-        xor ^= i;
-        xor ^= nums[i];
-    }
-
-    return xor;
 };
