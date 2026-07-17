@@ -22,6 +22,7 @@
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/mayankmishra0801/leetcode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/mayankmishra0801/leetcode/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/mayankmishra0801/leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/mayankmishra0801/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -32,6 +33,7 @@
 | [0061-rotate-list](https://github.com/mayankmishra0801/leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0125-valid-palindrome](https://github.com/mayankmishra0801/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/mayankmishra0801/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/mayankmishra0801/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -55,6 +57,7 @@
 | [0268-missing-number](https://github.com/mayankmishra0801/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/mayankmishra0801/leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/mayankmishra0801/leetcode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/mayankmishra0801/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -96,6 +99,7 @@
 | [0015-3sum](https://github.com/mayankmishra0801/leetcode/tree/main/0015-3sum/) | Medium |
 | [0268-missing-number](https://github.com/mayankmishra0801/leetcode/tree/main/0268-missing-number/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mayankmishra0801/leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/mayankmishra0801/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -128,4 +132,12 @@
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/mayankmishra0801/leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/mayankmishra0801/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/mayankmishra0801/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/mayankmishra0801/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 <!---LeetCode Topics End-->
