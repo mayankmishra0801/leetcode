@@ -34,6 +34,7 @@
 | [0061-rotate-list](https://github.com/mayankmishra0801/leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0125-valid-palindrome](https://github.com/mayankmishra0801/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/mayankmishra0801/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/mayankmishra0801/leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mayankmishra0801/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -69,6 +70,7 @@
 | [0141-linked-list-cycle](https://github.com/mayankmishra0801/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/mayankmishra0801/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/mayankmishra0801/leetcode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/mayankmishra0801/leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
