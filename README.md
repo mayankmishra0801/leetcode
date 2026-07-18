@@ -67,6 +67,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mayankmishra0801/leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/mayankmishra0801/leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0061-rotate-list](https://github.com/mayankmishra0801/leetcode/tree/main/0061-rotate-list/) | Medium |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/mayankmishra0801/leetcode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/mayankmishra0801/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/mayankmishra0801/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/mayankmishra0801/leetcode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
