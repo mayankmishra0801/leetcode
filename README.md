@@ -85,11 +85,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/mayankmishra0801/leetcode/tree/main/0100-same-tree/) | Easy |
+| [0226-invert-binary-tree](https://github.com/mayankmishra0801/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [1306-jump-game-iii](https://github.com/mayankmishra0801/leetcode/tree/main/1306-jump-game-iii/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/mayankmishra0801/leetcode/tree/main/0100-same-tree/) | Easy |
+| [0226-invert-binary-tree](https://github.com/mayankmishra0801/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [1306-jump-game-iii](https://github.com/mayankmishra0801/leetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/mayankmishra0801/leetcode/tree/main/1345-jump-game-iv/) | Hard |
 ## Greedy
@@ -149,8 +151,10 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/mayankmishra0801/leetcode/tree/main/0100-same-tree/) | Easy |
+| [0226-invert-binary-tree](https://github.com/mayankmishra0801/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/mayankmishra0801/leetcode/tree/main/0100-same-tree/) | Easy |
+| [0226-invert-binary-tree](https://github.com/mayankmishra0801/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
