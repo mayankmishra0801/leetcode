@@ -1,0 +1,4 @@
+# Write your MySQL query statement below
+SELECT MAX(num) AS num
+
+FROM(SELECT num FROM MyNumbers Group BY num HAVING COUNT(*) = 1) AS singles;
