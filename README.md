@@ -59,6 +59,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/mayankmishra0801/leetcode/tree/main/0258-add-digits/) | Easy |
+| [0263-ugly-number](https://github.com/mayankmishra0801/leetcode/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/mayankmishra0801/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0326-power-of-three](https://github.com/mayankmishra0801/leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/mayankmishra0801/leetcode/tree/main/0342-power-of-four/) | Easy |
