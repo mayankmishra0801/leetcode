@@ -51,6 +51,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/mayankmishra0801/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0141-linked-list-cycle](https://github.com/mayankmishra0801/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0268-missing-number](https://github.com/mayankmishra0801/leetcode/tree/main/0268-missing-number/) | Easy |
+| [0389-find-the-difference](https://github.com/mayankmishra0801/leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/mayankmishra0801/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [1345-jump-game-iv](https://github.com/mayankmishra0801/leetcode/tree/main/1345-jump-game-iv/) | Hard |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/mayankmishra0801/leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -120,6 +121,7 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/mayankmishra0801/leetcode/tree/main/0015-3sum/) | Medium |
 | [0268-missing-number](https://github.com/mayankmishra0801/leetcode/tree/main/0268-missing-number/) | Easy |
+| [0389-find-the-difference](https://github.com/mayankmishra0801/leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0414-third-maximum-number](https://github.com/mayankmishra0801/leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mayankmishra0801/leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mayankmishra0801/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -129,6 +131,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/mayankmishra0801/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/mayankmishra0801/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0125-valid-palindrome](https://github.com/mayankmishra0801/leetcode/tree/main/0125-valid-palindrome/) | Easy |
+| [0389-find-the-difference](https://github.com/mayankmishra0801/leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/mayankmishra0801/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0434-number-of-segments-in-a-string](https://github.com/mayankmishra0801/leetcode/tree/main/0434-number-of-segments-in-a-string/) | Easy |
 ## Sliding Window
@@ -152,6 +155,7 @@
 | [0268-missing-number](https://github.com/mayankmishra0801/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/mayankmishra0801/leetcode/tree/main/0342-power-of-four/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/mayankmishra0801/leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
+| [0389-find-the-difference](https://github.com/mayankmishra0801/leetcode/tree/main/0389-find-the-difference/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
