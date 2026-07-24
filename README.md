@@ -56,6 +56,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/mayankmishra0801/leetcode/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/mayankmishra0801/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0326-power-of-three](https://github.com/mayankmishra0801/leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/mayankmishra0801/leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
@@ -154,10 +155,12 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/mayankmishra0801/leetcode/tree/main/0258-add-digits/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mayankmishra0801/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/mayankmishra0801/leetcode/tree/main/0258-add-digits/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mayankmishra0801/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mayankmishra0801/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Tree
