@@ -101,6 +101,7 @@
 | [0112-path-sum](https://github.com/mayankmishra0801/leetcode/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/mayankmishra0801/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/mayankmishra0801/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0617-merge-two-binary-trees](https://github.com/mayankmishra0801/leetcode/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [1306-jump-game-iii](https://github.com/mayankmishra0801/leetcode/tree/main/1306-jump-game-iii/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -110,6 +111,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/mayankmishra0801/leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/mayankmishra0801/leetcode/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/mayankmishra0801/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0617-merge-two-binary-trees](https://github.com/mayankmishra0801/leetcode/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [1306-jump-game-iii](https://github.com/mayankmishra0801/leetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/mayankmishra0801/leetcode/tree/main/1345-jump-game-iv/) | Hard |
 ## Greedy
@@ -184,6 +186,7 @@
 | [0112-path-sum](https://github.com/mayankmishra0801/leetcode/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/mayankmishra0801/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/mayankmishra0801/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0617-merge-two-binary-trees](https://github.com/mayankmishra0801/leetcode/tree/main/0617-merge-two-binary-trees/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -193,6 +196,7 @@
 | [0112-path-sum](https://github.com/mayankmishra0801/leetcode/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/mayankmishra0801/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/mayankmishra0801/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0617-merge-two-binary-trees](https://github.com/mayankmishra0801/leetcode/tree/main/0617-merge-two-binary-trees/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
