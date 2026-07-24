@@ -192,4 +192,8 @@
 | [0112-path-sum](https://github.com/mayankmishra0801/leetcode/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/mayankmishra0801/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/mayankmishra0801/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0197-rising-temperature](https://github.com/mayankmishra0801/leetcode/tree/main/0197-rising-temperature/) | Easy |
 <!---LeetCode Topics End-->
