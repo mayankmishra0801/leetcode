@@ -21,6 +21,7 @@
 | [0704-binary-search](https://github.com/mayankmishra0801/leetcode/tree/main/0704-binary-search/) | Easy |
 | [0896-monotonic-array](https://github.com/mayankmishra0801/leetcode/tree/main/0896-monotonic-array/) | Easy |
 | [0929-unique-email-addresses](https://github.com/mayankmishra0801/leetcode/tree/main/0929-unique-email-addresses/) | Easy |
+| [0976-largest-perimeter-triangle](https://github.com/mayankmishra0801/leetcode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1306-jump-game-iii](https://github.com/mayankmishra0801/leetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/mayankmishra0801/leetcode/tree/main/1345-jump-game-iv/) | Hard |
 | [1848-minimum-distance-to-the-target-element](https://github.com/mayankmishra0801/leetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
@@ -72,6 +73,7 @@
 | [0371-sum-of-two-integers](https://github.com/mayankmishra0801/leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0507-perfect-number](https://github.com/mayankmishra0801/leetcode/tree/main/0507-perfect-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/mayankmishra0801/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0976-largest-perimeter-triangle](https://github.com/mayankmishra0801/leetcode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mayankmishra0801/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/mayankmishra0801/leetcode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mayankmishra0801/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -127,6 +129,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/mayankmishra0801/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0561-array-partition](https://github.com/mayankmishra0801/leetcode/tree/main/0561-array-partition/) | Easy |
+| [0976-largest-perimeter-triangle](https://github.com/mayankmishra0801/leetcode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mayankmishra0801/leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -137,6 +140,7 @@
 | [0414-third-maximum-number](https://github.com/mayankmishra0801/leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0561-array-partition](https://github.com/mayankmishra0801/leetcode/tree/main/0561-array-partition/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/mayankmishra0801/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0976-largest-perimeter-triangle](https://github.com/mayankmishra0801/leetcode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mayankmishra0801/leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mayankmishra0801/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## String
