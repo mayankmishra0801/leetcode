@@ -1,0 +1,24 @@
+/**
+ * @param {number} n
+ * @return {number}
+ */
+var maxProduct = function(n) {
+    let first = 0;
+    let second = 0;
+
+    while(n > 0){
+        let digit = n % 10;
+
+        if(digit >= first){
+            second = first;
+            first = digit;
+        }else if(digit >second){
+            second = digit;
+        }
+
+        n = Math.floor(n / 10);
+    }
+
+    return first * second;
+    
+};
