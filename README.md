@@ -62,6 +62,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/mayankmishra0801/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0929-unique-email-addresses](https://github.com/mayankmishra0801/leetcode/tree/main/0929-unique-email-addresses/) | Easy |
 | [1345-jump-game-iv](https://github.com/mayankmishra0801/leetcode/tree/main/1345-jump-game-iv/) | Hard |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mayankmishra0801/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/mayankmishra0801/leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -135,6 +136,7 @@
 | [0561-array-partition](https://github.com/mayankmishra0801/leetcode/tree/main/0561-array-partition/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/mayankmishra0801/leetcode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mayankmishra0801/leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mayankmishra0801/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -146,6 +148,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/mayankmishra0801/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/mayankmishra0801/leetcode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mayankmishra0801/leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mayankmishra0801/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/mayankmishra0801/leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mayankmishra0801/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## String
@@ -160,6 +163,7 @@
 | [0796-rotate-string](https://github.com/mayankmishra0801/leetcode/tree/main/0796-rotate-string/) | Easy |
 | [0929-unique-email-addresses](https://github.com/mayankmishra0801/leetcode/tree/main/0929-unique-email-addresses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mayankmishra0801/leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mayankmishra0801/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -230,6 +234,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0561-array-partition](https://github.com/mayankmishra0801/leetcode/tree/main/0561-array-partition/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mayankmishra0801/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
