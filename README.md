@@ -37,6 +37,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/mayankmishra0801/leetcode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/mayankmishra0801/leetcode/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mayankmishra0801/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1528-shuffle-string](https://github.com/mayankmishra0801/leetcode/tree/main/1528-shuffle-string/) | Easy |
 | [1560-most-visited-sector-in-a-circular-track](https://github.com/mayankmishra0801/leetcode/tree/main/1560-most-visited-sector-in-a-circular-track/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/mayankmishra0801/leetcode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/mayankmishra0801/leetcode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
@@ -254,6 +255,7 @@
 | [1221-split-a-string-in-balanced-strings](https://github.com/mayankmishra0801/leetcode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1332-remove-palindromic-subsequences](https://github.com/mayankmishra0801/leetcode/tree/main/1332-remove-palindromic-subsequences/) | Easy |
 | [1446-consecutive-characters](https://github.com/mayankmishra0801/leetcode/tree/main/1446-consecutive-characters/) | Easy |
+| [1528-shuffle-string](https://github.com/mayankmishra0801/leetcode/tree/main/1528-shuffle-string/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/mayankmishra0801/leetcode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1668-maximum-repeating-substring](https://github.com/mayankmishra0801/leetcode/tree/main/1668-maximum-repeating-substring/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/mayankmishra0801/leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
