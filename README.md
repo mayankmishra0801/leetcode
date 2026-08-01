@@ -30,6 +30,7 @@
 | [1306-jump-game-iii](https://github.com/mayankmishra0801/leetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/mayankmishra0801/leetcode/tree/main/1345-jump-game-iv/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mayankmishra0801/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1560-most-visited-sector-in-a-circular-track](https://github.com/mayankmishra0801/leetcode/tree/main/1560-most-visited-sector-in-a-circular-track/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/mayankmishra0801/leetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mayankmishra0801/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mayankmishra0801/leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -247,6 +248,7 @@
 | [0258-add-digits](https://github.com/mayankmishra0801/leetcode/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/mayankmishra0801/leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0495-teemo-attacking](https://github.com/mayankmishra0801/leetcode/tree/main/0495-teemo-attacking/) | Easy |
+| [1560-most-visited-sector-in-a-circular-track](https://github.com/mayankmishra0801/leetcode/tree/main/1560-most-visited-sector-in-a-circular-track/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/mayankmishra0801/leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mayankmishra0801/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Number Theory
