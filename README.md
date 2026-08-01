@@ -57,6 +57,7 @@
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mayankmishra0801/leetcode/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/mayankmishra0801/leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/mayankmishra0801/leetcode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
+| [2788-split-strings-by-separator](https://github.com/mayankmishra0801/leetcode/tree/main/2788-split-strings-by-separator/) | Easy |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/mayankmishra0801/leetcode/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/mayankmishra0801/leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mayankmishra0801/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -272,6 +273,7 @@
 | [2027-minimum-moves-to-convert-string](https://github.com/mayankmishra0801/leetcode/tree/main/2027-minimum-moves-to-convert-string/) | Easy |
 | [2047-number-of-valid-words-in-a-sentence](https://github.com/mayankmishra0801/leetcode/tree/main/2047-number-of-valid-words-in-a-sentence/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/mayankmishra0801/leetcode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
+| [2788-split-strings-by-separator](https://github.com/mayankmishra0801/leetcode/tree/main/2788-split-strings-by-separator/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mayankmishra0801/leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mayankmishra0801/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/mayankmishra0801/leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
