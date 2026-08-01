@@ -36,6 +36,7 @@
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/mayankmishra0801/leetcode/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mayankmishra0801/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1560-most-visited-sector-in-a-circular-track](https://github.com/mayankmishra0801/leetcode/tree/main/1560-most-visited-sector-in-a-circular-track/) | Easy |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/mayankmishra0801/leetcode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/mayankmishra0801/leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/mayankmishra0801/leetcode/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1773-count-items-matching-a-rule](https://github.com/mayankmishra0801/leetcode/tree/main/1773-count-items-matching-a-rule/) | Easy |
@@ -233,6 +234,7 @@
 | [1221-split-a-string-in-balanced-strings](https://github.com/mayankmishra0801/leetcode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1332-remove-palindromic-subsequences](https://github.com/mayankmishra0801/leetcode/tree/main/1332-remove-palindromic-subsequences/) | Easy |
 | [1446-consecutive-characters](https://github.com/mayankmishra0801/leetcode/tree/main/1446-consecutive-characters/) | Easy |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/mayankmishra0801/leetcode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/mayankmishra0801/leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1773-count-items-matching-a-rule](https://github.com/mayankmishra0801/leetcode/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mayankmishra0801/leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
