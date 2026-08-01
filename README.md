@@ -260,6 +260,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0197-rising-temperature](https://github.com/mayankmishra0801/leetcode/tree/main/0197-rising-temperature/) | Easy |
+| [0610-triangle-judgement](https://github.com/mayankmishra0801/leetcode/tree/main/0610-triangle-judgement/) | Easy |
 | [0619-biggest-single-number](https://github.com/mayankmishra0801/leetcode/tree/main/0619-biggest-single-number/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
