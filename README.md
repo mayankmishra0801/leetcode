@@ -112,6 +112,7 @@
 | [2085-count-common-words-with-one-occurrence](https://github.com/mayankmishra0801/leetcode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mayankmishra0801/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/mayankmishra0801/leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
+| [3945-digit-frequency-score](https://github.com/mayankmishra0801/leetcode/tree/main/3945-digit-frequency-score/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -146,6 +147,7 @@
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mayankmishra0801/leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/mayankmishra0801/leetcode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mayankmishra0801/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3945-digit-frequency-score](https://github.com/mayankmishra0801/leetcode/tree/main/3945-digit-frequency-score/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
