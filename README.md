@@ -143,6 +143,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mayankmishra0801/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/mayankmishra0801/leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0486-predict-the-winner](https://github.com/mayankmishra0801/leetcode/tree/main/0486-predict-the-winner/) | Medium |
+| [1668-maximum-repeating-substring](https://github.com/mayankmishra0801/leetcode/tree/main/1668-maximum-repeating-substring/) | Easy |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/mayankmishra0801/leetcode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -235,6 +236,7 @@
 | [1332-remove-palindromic-subsequences](https://github.com/mayankmishra0801/leetcode/tree/main/1332-remove-palindromic-subsequences/) | Easy |
 | [1446-consecutive-characters](https://github.com/mayankmishra0801/leetcode/tree/main/1446-consecutive-characters/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/mayankmishra0801/leetcode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
+| [1668-maximum-repeating-substring](https://github.com/mayankmishra0801/leetcode/tree/main/1668-maximum-repeating-substring/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/mayankmishra0801/leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1773-count-items-matching-a-rule](https://github.com/mayankmishra0801/leetcode/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mayankmishra0801/leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -349,6 +351,7 @@
 | ------- | ------- |
 | [0459-repeated-substring-pattern](https://github.com/mayankmishra0801/leetcode/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0796-rotate-string](https://github.com/mayankmishra0801/leetcode/tree/main/0796-rotate-string/) | Easy |
+| [1668-maximum-repeating-substring](https://github.com/mayankmishra0801/leetcode/tree/main/1668-maximum-repeating-substring/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
