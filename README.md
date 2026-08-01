@@ -77,6 +77,7 @@
 | [0371-sum-of-two-integers](https://github.com/mayankmishra0801/leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/mayankmishra0801/leetcode/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0412-fizz-buzz](https://github.com/mayankmishra0801/leetcode/tree/main/0412-fizz-buzz/) | Easy |
+| [0441-arranging-coins](https://github.com/mayankmishra0801/leetcode/tree/main/0441-arranging-coins/) | Easy |
 | [0486-predict-the-winner](https://github.com/mayankmishra0801/leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0507-perfect-number](https://github.com/mayankmishra0801/leetcode/tree/main/0507-perfect-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/mayankmishra0801/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -113,6 +114,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/mayankmishra0801/leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mayankmishra0801/leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0268-missing-number](https://github.com/mayankmishra0801/leetcode/tree/main/0268-missing-number/) | Easy |
+| [0441-arranging-coins](https://github.com/mayankmishra0801/leetcode/tree/main/0441-arranging-coins/) | Easy |
 | [0704-binary-search](https://github.com/mayankmishra0801/leetcode/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/mayankmishra0801/leetcode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 ## Depth-First Search
