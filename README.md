@@ -216,6 +216,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/mayankmishra0801/leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mayankmishra0801/leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1332-remove-palindromic-subsequences](https://github.com/mayankmishra0801/leetcode/tree/main/1332-remove-palindromic-subsequences/) | Easy |
+| [1446-consecutive-characters](https://github.com/mayankmishra0801/leetcode/tree/main/1446-consecutive-characters/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/mayankmishra0801/leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mayankmishra0801/leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mayankmishra0801/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
