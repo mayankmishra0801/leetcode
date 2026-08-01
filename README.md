@@ -92,6 +92,7 @@
 | [0976-largest-perimeter-triangle](https://github.com/mayankmishra0801/leetcode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1232-check-if-it-is-a-straight-line](https://github.com/mayankmishra0801/leetcode/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/mayankmishra0801/leetcode/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
+| [1323-maximum-69-number](https://github.com/mayankmishra0801/leetcode/tree/main/1323-maximum-69-number/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mayankmishra0801/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mayankmishra0801/leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/mayankmishra0801/leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -162,6 +163,7 @@
 | [0011-container-with-most-water](https://github.com/mayankmishra0801/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0561-array-partition](https://github.com/mayankmishra0801/leetcode/tree/main/0561-array-partition/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/mayankmishra0801/leetcode/tree/main/0976-largest-perimeter-triangle/) | Easy |
+| [1323-maximum-69-number](https://github.com/mayankmishra0801/leetcode/tree/main/1323-maximum-69-number/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mayankmishra0801/leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mayankmishra0801/leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mayankmishra0801/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
