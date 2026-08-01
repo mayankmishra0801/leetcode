@@ -45,6 +45,7 @@
 | [1748-sum-of-unique-elements](https://github.com/mayankmishra0801/leetcode/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1773-count-items-matching-a-rule](https://github.com/mayankmishra0801/leetcode/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [1816-truncate-sentence](https://github.com/mayankmishra0801/leetcode/tree/main/1816-truncate-sentence/) | Easy |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/mayankmishra0801/leetcode/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/mayankmishra0801/leetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/mayankmishra0801/leetcode/tree/main/1961-check-if-string-is-a-prefix-of-array/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mayankmishra0801/leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -209,6 +210,7 @@
 | [0976-largest-perimeter-triangle](https://github.com/mayankmishra0801/leetcode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/mayankmishra0801/leetcode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1323-maximum-69-number](https://github.com/mayankmishra0801/leetcode/tree/main/1323-maximum-69-number/) | Easy |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/mayankmishra0801/leetcode/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
 | [2027-minimum-moves-to-convert-string](https://github.com/mayankmishra0801/leetcode/tree/main/2027-minimum-moves-to-convert-string/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mayankmishra0801/leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mayankmishra0801/leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
