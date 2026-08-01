@@ -126,6 +126,7 @@
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/mayankmishra0801/leetcode/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1323-maximum-69-number](https://github.com/mayankmishra0801/leetcode/tree/main/1323-maximum-69-number/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mayankmishra0801/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2235-add-two-integers](https://github.com/mayankmishra0801/leetcode/tree/main/2235-add-two-integers/) | Easy |
 | [2427-number-of-common-factors](https://github.com/mayankmishra0801/leetcode/tree/main/2427-number-of-common-factors/) | Easy |
 | [2469-convert-the-temperature](https://github.com/mayankmishra0801/leetcode/tree/main/2469-convert-the-temperature/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/mayankmishra0801/leetcode/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
