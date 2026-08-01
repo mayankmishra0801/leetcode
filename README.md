@@ -338,6 +338,7 @@
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/mayankmishra0801/leetcode/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1667-fix-names-in-a-table](https://github.com/mayankmishra0801/leetcode/tree/main/1667-fix-names-in-a-table/) | Easy |
 | [1729-find-followers-count](https://github.com/mayankmishra0801/leetcode/tree/main/1729-find-followers-count/) | Easy |
+| [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/mayankmishra0801/leetcode/tree/main/1731-the-number-of-employees-which-report-to-each-employee/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
