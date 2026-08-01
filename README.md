@@ -333,6 +333,7 @@
 | [0620-not-boring-movies](https://github.com/mayankmishra0801/leetcode/tree/main/0620-not-boring-movies/) | Easy |
 | [0627-swap-sex-of-employees](https://github.com/mayankmishra0801/leetcode/tree/main/0627-swap-sex-of-employees/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/mayankmishra0801/leetcode/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
+| [1667-fix-names-in-a-table](https://github.com/mayankmishra0801/leetcode/tree/main/1667-fix-names-in-a-table/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
