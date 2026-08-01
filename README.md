@@ -224,6 +224,7 @@
 | [0459-repeated-substring-pattern](https://github.com/mayankmishra0801/leetcode/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0520-detect-capital](https://github.com/mayankmishra0801/leetcode/tree/main/0520-detect-capital/) | Easy |
 | [0796-rotate-string](https://github.com/mayankmishra0801/leetcode/tree/main/0796-rotate-string/) | Easy |
+| [0824-goat-latin](https://github.com/mayankmishra0801/leetcode/tree/main/0824-goat-latin/) | Easy |
 | [0917-reverse-only-letters](https://github.com/mayankmishra0801/leetcode/tree/main/0917-reverse-only-letters/) | Easy |
 | [0925-long-pressed-name](https://github.com/mayankmishra0801/leetcode/tree/main/0925-long-pressed-name/) | Easy |
 | [0929-unique-email-addresses](https://github.com/mayankmishra0801/leetcode/tree/main/0929-unique-email-addresses/) | Easy |
