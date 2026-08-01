@@ -131,6 +131,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/mayankmishra0801/leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/mayankmishra0801/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/mayankmishra0801/leetcode/tree/main/0617-merge-two-binary-trees/) | Easy |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/mayankmishra0801/leetcode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [1306-jump-game-iii](https://github.com/mayankmishra0801/leetcode/tree/main/1306-jump-game-iii/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -142,6 +143,7 @@
 | [0226-invert-binary-tree](https://github.com/mayankmishra0801/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/mayankmishra0801/leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/mayankmishra0801/leetcode/tree/main/0617-merge-two-binary-trees/) | Easy |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/mayankmishra0801/leetcode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [1306-jump-game-iii](https://github.com/mayankmishra0801/leetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/mayankmishra0801/leetcode/tree/main/1345-jump-game-iv/) | Hard |
 ## Greedy
@@ -245,6 +247,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/mayankmishra0801/leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/mayankmishra0801/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/mayankmishra0801/leetcode/tree/main/0617-merge-two-binary-trees/) | Easy |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/mayankmishra0801/leetcode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -256,6 +259,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/mayankmishra0801/leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/mayankmishra0801/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/mayankmishra0801/leetcode/tree/main/0617-merge-two-binary-trees/) | Easy |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/mayankmishra0801/leetcode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -291,4 +295,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/mayankmishra0801/leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/mayankmishra0801/leetcode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 <!---LeetCode Topics End-->
