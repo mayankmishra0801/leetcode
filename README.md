@@ -204,6 +204,7 @@
 | [0389-find-the-difference](https://github.com/mayankmishra0801/leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/mayankmishra0801/leetcode/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0461-hamming-distance](https://github.com/mayankmishra0801/leetcode/tree/main/0461-hamming-distance/) | Easy |
+| [0476-number-complement](https://github.com/mayankmishra0801/leetcode/tree/main/0476-number-complement/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
