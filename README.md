@@ -50,6 +50,7 @@
 | [2016-maximum-difference-between-increasing-elements](https://github.com/mayankmishra0801/leetcode/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/mayankmishra0801/leetcode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mayankmishra0801/leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2239-find-closest-number-to-zero](https://github.com/mayankmishra0801/leetcode/tree/main/2239-find-closest-number-to-zero/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mayankmishra0801/leetcode/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/mayankmishra0801/leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/mayankmishra0801/leetcode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
