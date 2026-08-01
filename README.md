@@ -366,6 +366,7 @@
 | [0620-not-boring-movies](https://github.com/mayankmishra0801/leetcode/tree/main/0620-not-boring-movies/) | Easy |
 | [0627-swap-sex-of-employees](https://github.com/mayankmishra0801/leetcode/tree/main/0627-swap-sex-of-employees/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/mayankmishra0801/leetcode/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
+| [1517-find-users-with-valid-e-mails](https://github.com/mayankmishra0801/leetcode/tree/main/1517-find-users-with-valid-e-mails/) | Easy |
 | [1667-fix-names-in-a-table](https://github.com/mayankmishra0801/leetcode/tree/main/1667-fix-names-in-a-table/) | Easy |
 | [1729-find-followers-count](https://github.com/mayankmishra0801/leetcode/tree/main/1729-find-followers-count/) | Easy |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/mayankmishra0801/leetcode/tree/main/1731-the-number-of-employees-which-report-to-each-employee/) | Easy |
