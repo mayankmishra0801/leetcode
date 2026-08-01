@@ -79,6 +79,7 @@
 | [0412-fizz-buzz](https://github.com/mayankmishra0801/leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0441-arranging-coins](https://github.com/mayankmishra0801/leetcode/tree/main/0441-arranging-coins/) | Easy |
 | [0486-predict-the-winner](https://github.com/mayankmishra0801/leetcode/tree/main/0486-predict-the-winner/) | Medium |
+| [0492-construct-the-rectangle](https://github.com/mayankmishra0801/leetcode/tree/main/0492-construct-the-rectangle/) | Easy |
 | [0507-perfect-number](https://github.com/mayankmishra0801/leetcode/tree/main/0507-perfect-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/mayankmishra0801/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/mayankmishra0801/leetcode/tree/main/0728-self-dividing-numbers/) | Easy |
