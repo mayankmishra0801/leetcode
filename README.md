@@ -217,6 +217,7 @@
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/mayankmishra0801/leetcode/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mayankmishra0801/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/mayankmishra0801/leetcode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+| [1859-sorting-the-sentence](https://github.com/mayankmishra0801/leetcode/tree/main/1859-sorting-the-sentence/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mayankmishra0801/leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mayankmishra0801/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/mayankmishra0801/leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -250,6 +251,7 @@
 | [1704-determine-if-string-halves-are-alike](https://github.com/mayankmishra0801/leetcode/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [1773-count-items-matching-a-rule](https://github.com/mayankmishra0801/leetcode/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/mayankmishra0801/leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
+| [1859-sorting-the-sentence](https://github.com/mayankmishra0801/leetcode/tree/main/1859-sorting-the-sentence/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mayankmishra0801/leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mayankmishra0801/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/mayankmishra0801/leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
