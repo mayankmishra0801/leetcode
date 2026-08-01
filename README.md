@@ -94,6 +94,7 @@
 | [1636-sort-array-by-increasing-frequency](https://github.com/mayankmishra0801/leetcode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/mayankmishra0801/leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/mayankmishra0801/leetcode/tree/main/1748-sum-of-unique-elements/) | Easy |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/mayankmishra0801/leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mayankmishra0801/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/mayankmishra0801/leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Math
@@ -248,6 +249,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/mayankmishra0801/leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1704-determine-if-string-halves-are-alike](https://github.com/mayankmishra0801/leetcode/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [1773-count-items-matching-a-rule](https://github.com/mayankmishra0801/leetcode/tree/main/1773-count-items-matching-a-rule/) | Easy |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/mayankmishra0801/leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mayankmishra0801/leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mayankmishra0801/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/mayankmishra0801/leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
