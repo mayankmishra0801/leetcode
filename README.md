@@ -59,6 +59,7 @@
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/mayankmishra0801/leetcode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/mayankmishra0801/leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2788-split-strings-by-separator](https://github.com/mayankmishra0801/leetcode/tree/main/2788-split-strings-by-separator/) | Easy |
+| [2798-number-of-employees-who-met-the-target](https://github.com/mayankmishra0801/leetcode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/mayankmishra0801/leetcode/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/mayankmishra0801/leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mayankmishra0801/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
