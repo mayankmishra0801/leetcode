@@ -25,6 +25,7 @@
 | [0706-design-hashmap](https://github.com/mayankmishra0801/leetcode/tree/main/0706-design-hashmap/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/mayankmishra0801/leetcode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0832-flipping-an-image](https://github.com/mayankmishra0801/leetcode/tree/main/0832-flipping-an-image/) | Easy |
+| [0867-transpose-matrix](https://github.com/mayankmishra0801/leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [0896-monotonic-array](https://github.com/mayankmishra0801/leetcode/tree/main/0896-monotonic-array/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/mayankmishra0801/leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0929-unique-email-addresses](https://github.com/mayankmishra0801/leetcode/tree/main/0929-unique-email-addresses/) | Easy |
@@ -331,6 +332,7 @@
 | [0412-fizz-buzz](https://github.com/mayankmishra0801/leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0495-teemo-attacking](https://github.com/mayankmishra0801/leetcode/tree/main/0495-teemo-attacking/) | Easy |
 | [0832-flipping-an-image](https://github.com/mayankmishra0801/leetcode/tree/main/0832-flipping-an-image/) | Easy |
+| [0867-transpose-matrix](https://github.com/mayankmishra0801/leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [1560-most-visited-sector-in-a-circular-track](https://github.com/mayankmishra0801/leetcode/tree/main/1560-most-visited-sector-in-a-circular-track/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/mayankmishra0801/leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/mayankmishra0801/leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
@@ -452,4 +454,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0832-flipping-an-image](https://github.com/mayankmishra0801/leetcode/tree/main/0832-flipping-an-image/) | Easy |
+| [0867-transpose-matrix](https://github.com/mayankmishra0801/leetcode/tree/main/0867-transpose-matrix/) | Easy |
 <!---LeetCode Topics End-->
