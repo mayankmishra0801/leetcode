@@ -50,6 +50,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/mayankmishra0801/leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0917-reverse-only-letters](https://github.com/mayankmishra0801/leetcode/tree/main/0917-reverse-only-letters/) | Easy |
 | [0925-long-pressed-name](https://github.com/mayankmishra0801/leetcode/tree/main/0925-long-pressed-name/) | Easy |
+| [1332-remove-palindromic-subsequences](https://github.com/mayankmishra0801/leetcode/tree/main/1332-remove-palindromic-subsequences/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mayankmishra0801/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -201,6 +202,7 @@
 | [0929-unique-email-addresses](https://github.com/mayankmishra0801/leetcode/tree/main/0929-unique-email-addresses/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/mayankmishra0801/leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mayankmishra0801/leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1332-remove-palindromic-subsequences](https://github.com/mayankmishra0801/leetcode/tree/main/1332-remove-palindromic-subsequences/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mayankmishra0801/leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mayankmishra0801/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/mayankmishra0801/leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
