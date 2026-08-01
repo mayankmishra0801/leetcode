@@ -178,6 +178,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/mayankmishra0801/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0434-number-of-segments-in-a-string](https://github.com/mayankmishra0801/leetcode/tree/main/0434-number-of-segments-in-a-string/) | Easy |
 | [0459-repeated-substring-pattern](https://github.com/mayankmishra0801/leetcode/tree/main/0459-repeated-substring-pattern/) | Easy |
+| [0520-detect-capital](https://github.com/mayankmishra0801/leetcode/tree/main/0520-detect-capital/) | Easy |
 | [0796-rotate-string](https://github.com/mayankmishra0801/leetcode/tree/main/0796-rotate-string/) | Easy |
 | [0929-unique-email-addresses](https://github.com/mayankmishra0801/leetcode/tree/main/0929-unique-email-addresses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mayankmishra0801/leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
