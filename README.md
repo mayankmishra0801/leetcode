@@ -26,6 +26,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/mayankmishra0801/leetcode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0832-flipping-an-image](https://github.com/mayankmishra0801/leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [0896-monotonic-array](https://github.com/mayankmishra0801/leetcode/tree/main/0896-monotonic-array/) | Easy |
+| [0905-sort-array-by-parity](https://github.com/mayankmishra0801/leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0929-unique-email-addresses](https://github.com/mayankmishra0801/leetcode/tree/main/0929-unique-email-addresses/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/mayankmishra0801/leetcode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1051-height-checker](https://github.com/mayankmishra0801/leetcode/tree/main/1051-height-checker/) | Easy |
@@ -62,6 +63,7 @@
 | [0141-linked-list-cycle](https://github.com/mayankmishra0801/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0832-flipping-an-image](https://github.com/mayankmishra0801/leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/mayankmishra0801/leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [0905-sort-array-by-parity](https://github.com/mayankmishra0801/leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0917-reverse-only-letters](https://github.com/mayankmishra0801/leetcode/tree/main/0917-reverse-only-letters/) | Easy |
 | [0925-long-pressed-name](https://github.com/mayankmishra0801/leetcode/tree/main/0925-long-pressed-name/) | Easy |
 | [1332-remove-palindromic-subsequences](https://github.com/mayankmishra0801/leetcode/tree/main/1332-remove-palindromic-subsequences/) | Easy |
@@ -206,6 +208,7 @@
 | [0414-third-maximum-number](https://github.com/mayankmishra0801/leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0561-array-partition](https://github.com/mayankmishra0801/leetcode/tree/main/0561-array-partition/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/mayankmishra0801/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0905-sort-array-by-parity](https://github.com/mayankmishra0801/leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/mayankmishra0801/leetcode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1051-height-checker](https://github.com/mayankmishra0801/leetcode/tree/main/1051-height-checker/) | Easy |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/mayankmishra0801/leetcode/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
