@@ -75,6 +75,7 @@
 | [0326-power-of-three](https://github.com/mayankmishra0801/leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/mayankmishra0801/leetcode/tree/main/0342-power-of-four/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/mayankmishra0801/leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/mayankmishra0801/leetcode/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0486-predict-the-winner](https://github.com/mayankmishra0801/leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0507-perfect-number](https://github.com/mayankmishra0801/leetcode/tree/main/0507-perfect-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/mayankmishra0801/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -166,6 +167,7 @@
 | [0020-valid-parentheses](https://github.com/mayankmishra0801/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0125-valid-palindrome](https://github.com/mayankmishra0801/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0389-find-the-difference](https://github.com/mayankmishra0801/leetcode/tree/main/0389-find-the-difference/) | Easy |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/mayankmishra0801/leetcode/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/mayankmishra0801/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0434-number-of-segments-in-a-string](https://github.com/mayankmishra0801/leetcode/tree/main/0434-number-of-segments-in-a-string/) | Easy |
 | [0796-rotate-string](https://github.com/mayankmishra0801/leetcode/tree/main/0796-rotate-string/) | Easy |
@@ -196,6 +198,7 @@
 | [0342-power-of-four](https://github.com/mayankmishra0801/leetcode/tree/main/0342-power-of-four/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/mayankmishra0801/leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0389-find-the-difference](https://github.com/mayankmishra0801/leetcode/tree/main/0389-find-the-difference/) | Easy |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/mayankmishra0801/leetcode/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
