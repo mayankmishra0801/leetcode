@@ -57,6 +57,7 @@
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mayankmishra0801/leetcode/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/mayankmishra0801/leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/mayankmishra0801/leetcode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/mayankmishra0801/leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2788-split-strings-by-separator](https://github.com/mayankmishra0801/leetcode/tree/main/2788-split-strings-by-separator/) | Easy |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/mayankmishra0801/leetcode/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/mayankmishra0801/leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -437,6 +438,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2427-number-of-common-factors](https://github.com/mayankmishra0801/leetcode/tree/main/2427-number-of-common-factors/) | Easy |
+| [2778-sum-of-squares-of-special-elements](https://github.com/mayankmishra0801/leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
