@@ -338,6 +338,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/mayankmishra0801/leetcode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/mayankmishra0801/leetcode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/mayankmishra0801/leetcode/tree/main/0965-univalued-binary-tree/) | Easy |
+| [2236-root-equals-sum-of-children](https://github.com/mayankmishra0801/leetcode/tree/main/2236-root-equals-sum-of-children/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -352,6 +353,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/mayankmishra0801/leetcode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/mayankmishra0801/leetcode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/mayankmishra0801/leetcode/tree/main/0965-univalued-binary-tree/) | Easy |
+| [2236-root-equals-sum-of-children](https://github.com/mayankmishra0801/leetcode/tree/main/2236-root-equals-sum-of-children/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
