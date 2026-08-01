@@ -135,6 +135,7 @@
 | [0617-merge-two-binary-trees](https://github.com/mayankmishra0801/leetcode/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/mayankmishra0801/leetcode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/mayankmishra0801/leetcode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [0965-univalued-binary-tree](https://github.com/mayankmishra0801/leetcode/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1306-jump-game-iii](https://github.com/mayankmishra0801/leetcode/tree/main/1306-jump-game-iii/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -148,6 +149,7 @@
 | [0617-merge-two-binary-trees](https://github.com/mayankmishra0801/leetcode/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/mayankmishra0801/leetcode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/mayankmishra0801/leetcode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [0965-univalued-binary-tree](https://github.com/mayankmishra0801/leetcode/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1306-jump-game-iii](https://github.com/mayankmishra0801/leetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/mayankmishra0801/leetcode/tree/main/1345-jump-game-iv/) | Hard |
 ## Greedy
@@ -257,6 +259,7 @@
 | [0617-merge-two-binary-trees](https://github.com/mayankmishra0801/leetcode/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/mayankmishra0801/leetcode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/mayankmishra0801/leetcode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [0965-univalued-binary-tree](https://github.com/mayankmishra0801/leetcode/tree/main/0965-univalued-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -270,6 +273,7 @@
 | [0617-merge-two-binary-trees](https://github.com/mayankmishra0801/leetcode/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/mayankmishra0801/leetcode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/mayankmishra0801/leetcode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [0965-univalued-binary-tree](https://github.com/mayankmishra0801/leetcode/tree/main/0965-univalued-binary-tree/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
