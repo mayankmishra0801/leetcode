@@ -60,6 +60,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/mayankmishra0801/leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2788-split-strings-by-separator](https://github.com/mayankmishra0801/leetcode/tree/main/2788-split-strings-by-separator/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/mayankmishra0801/leetcode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/mayankmishra0801/leetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/mayankmishra0801/leetcode/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/mayankmishra0801/leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mayankmishra0801/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -80,6 +81,7 @@
 | [0925-long-pressed-name](https://github.com/mayankmishra0801/leetcode/tree/main/0925-long-pressed-name/) | Easy |
 | [1332-remove-palindromic-subsequences](https://github.com/mayankmishra0801/leetcode/tree/main/1332-remove-palindromic-subsequences/) | Easy |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/mayankmishra0801/leetcode/tree/main/1961-check-if-string-is-a-prefix-of-array/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/mayankmishra0801/leetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mayankmishra0801/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -175,6 +177,7 @@
 | [0441-arranging-coins](https://github.com/mayankmishra0801/leetcode/tree/main/0441-arranging-coins/) | Easy |
 | [0704-binary-search](https://github.com/mayankmishra0801/leetcode/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/mayankmishra0801/leetcode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/mayankmishra0801/leetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -235,6 +238,7 @@
 | [1636-sort-array-by-increasing-frequency](https://github.com/mayankmishra0801/leetcode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/mayankmishra0801/leetcode/tree/main/1859-sorting-the-sentence/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mayankmishra0801/leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/mayankmishra0801/leetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mayankmishra0801/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/mayankmishra0801/leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mayankmishra0801/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
