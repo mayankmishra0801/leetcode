@@ -44,6 +44,7 @@
 | [1748-sum-of-unique-elements](https://github.com/mayankmishra0801/leetcode/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1773-count-items-matching-a-rule](https://github.com/mayankmishra0801/leetcode/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/mayankmishra0801/leetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mayankmishra0801/leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mayankmishra0801/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mayankmishra0801/leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mayankmishra0801/leetcode/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
@@ -252,6 +253,7 @@
 | [1773-count-items-matching-a-rule](https://github.com/mayankmishra0801/leetcode/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/mayankmishra0801/leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/mayankmishra0801/leetcode/tree/main/1859-sorting-the-sentence/) | Easy |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mayankmishra0801/leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mayankmishra0801/leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mayankmishra0801/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/mayankmishra0801/leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
