@@ -64,6 +64,7 @@
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/mayankmishra0801/leetcode/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/mayankmishra0801/leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mayankmishra0801/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/mayankmishra0801/leetcode/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -83,6 +84,7 @@
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/mayankmishra0801/leetcode/tree/main/1961-check-if-string-is-a-prefix-of-array/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/mayankmishra0801/leetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mayankmishra0801/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/mayankmishra0801/leetcode/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
