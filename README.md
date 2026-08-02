@@ -114,6 +114,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/mayankmishra0801/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0705-design-hashset](https://github.com/mayankmishra0801/leetcode/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/mayankmishra0801/leetcode/tree/main/0706-design-hashmap/) | Easy |
+| [0771-jewels-and-stones](https://github.com/mayankmishra0801/leetcode/tree/main/0771-jewels-and-stones/) | Easy |
 | [0929-unique-email-addresses](https://github.com/mayankmishra0801/leetcode/tree/main/0929-unique-email-addresses/) | Easy |
 | [1345-jump-game-iv](https://github.com/mayankmishra0801/leetcode/tree/main/1345-jump-game-iv/) | Hard |
 | [1394-find-lucky-integer-in-an-array](https://github.com/mayankmishra0801/leetcode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
@@ -281,6 +282,7 @@
 | [0459-repeated-substring-pattern](https://github.com/mayankmishra0801/leetcode/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0520-detect-capital](https://github.com/mayankmishra0801/leetcode/tree/main/0520-detect-capital/) | Easy |
 | [0696-count-binary-substrings](https://github.com/mayankmishra0801/leetcode/tree/main/0696-count-binary-substrings/) | Easy |
+| [0771-jewels-and-stones](https://github.com/mayankmishra0801/leetcode/tree/main/0771-jewels-and-stones/) | Easy |
 | [0796-rotate-string](https://github.com/mayankmishra0801/leetcode/tree/main/0796-rotate-string/) | Easy |
 | [0824-goat-latin](https://github.com/mayankmishra0801/leetcode/tree/main/0824-goat-latin/) | Easy |
 | [0917-reverse-only-letters](https://github.com/mayankmishra0801/leetcode/tree/main/0917-reverse-only-letters/) | Easy |
