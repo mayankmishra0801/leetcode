@@ -438,6 +438,7 @@
 | [0620-not-boring-movies](https://github.com/mayankmishra0801/leetcode/tree/main/0620-not-boring-movies/) | Easy |
 | [0627-swap-sex-of-employees](https://github.com/mayankmishra0801/leetcode/tree/main/0627-swap-sex-of-employees/) | Easy |
 | [1075-project-employees-i](https://github.com/mayankmishra0801/leetcode/tree/main/1075-project-employees-i/) | Easy |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/mayankmishra0801/leetcode/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/mayankmishra0801/leetcode/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1517-find-users-with-valid-e-mails](https://github.com/mayankmishra0801/leetcode/tree/main/1517-find-users-with-valid-e-mails/) | Easy |
 | [1527-patients-with-a-condition](https://github.com/mayankmishra0801/leetcode/tree/main/1527-patients-with-a-condition/) | Easy |
