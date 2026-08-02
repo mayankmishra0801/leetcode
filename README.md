@@ -155,6 +155,7 @@
 | [0877-stone-game](https://github.com/mayankmishra0801/leetcode/tree/main/0877-stone-game/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/mayankmishra0801/leetcode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1025-divisor-game](https://github.com/mayankmishra0801/leetcode/tree/main/1025-divisor-game/) | Easy |
+| [1071-greatest-common-divisor-of-strings](https://github.com/mayankmishra0801/leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1154-day-of-the-year](https://github.com/mayankmishra0801/leetcode/tree/main/1154-day-of-the-year/) | Easy |
 | [1232-check-if-it-is-a-straight-line](https://github.com/mayankmishra0801/leetcode/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/mayankmishra0801/leetcode/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
@@ -305,6 +306,7 @@
 | [0929-unique-email-addresses](https://github.com/mayankmishra0801/leetcode/tree/main/0929-unique-email-addresses/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/mayankmishra0801/leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mayankmishra0801/leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1071-greatest-common-divisor-of-strings](https://github.com/mayankmishra0801/leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1154-day-of-the-year](https://github.com/mayankmishra0801/leetcode/tree/main/1154-day-of-the-year/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/mayankmishra0801/leetcode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1332-remove-palindromic-subsequences](https://github.com/mayankmishra0801/leetcode/tree/main/1332-remove-palindromic-subsequences/) | Easy |
