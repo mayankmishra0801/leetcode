@@ -429,6 +429,7 @@
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0180-consecutive-numbers](https://github.com/mayankmishra0801/leetcode/tree/main/0180-consecutive-numbers/) | Medium |
 | [0184-department-highest-salary](https://github.com/mayankmishra0801/leetcode/tree/main/0184-department-highest-salary/) | Medium |
 | [0197-rising-temperature](https://github.com/mayankmishra0801/leetcode/tree/main/0197-rising-temperature/) | Easy |
 | [0577-employee-bonus](https://github.com/mayankmishra0801/leetcode/tree/main/0577-employee-bonus/) | Easy |
