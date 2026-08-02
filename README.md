@@ -444,6 +444,7 @@
 | [1527-patients-with-a-condition](https://github.com/mayankmishra0801/leetcode/tree/main/1527-patients-with-a-condition/) | Easy |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/mayankmishra0801/leetcode/tree/main/1633-percentage-of-users-attended-a-contest/) | Easy |
 | [1667-fix-names-in-a-table](https://github.com/mayankmishra0801/leetcode/tree/main/1667-fix-names-in-a-table/) | Easy |
+| [1693-daily-leads-and-partners](https://github.com/mayankmishra0801/leetcode/tree/main/1693-daily-leads-and-partners/) | Easy |
 | [1729-find-followers-count](https://github.com/mayankmishra0801/leetcode/tree/main/1729-find-followers-count/) | Easy |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/mayankmishra0801/leetcode/tree/main/1731-the-number-of-employees-which-report-to-each-employee/) | Easy |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/mayankmishra0801/leetcode/tree/main/1741-find-total-time-spent-by-each-employee/) | Easy |
