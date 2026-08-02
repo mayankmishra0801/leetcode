@@ -475,6 +475,7 @@
 | [1978-employees-whose-manager-left-the-company](https://github.com/mayankmishra0801/leetcode/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/mayankmishra0801/leetcode/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 | [3220-odd-and-even-transactions](https://github.com/mayankmishra0801/leetcode/tree/main/3220-odd-and-even-transactions/) | Medium |
+| [3554-find-category-recommendation-pairs](https://github.com/mayankmishra0801/leetcode/tree/main/3554-find-category-recommendation-pairs/) | Hard |
 | [3570-find-books-with-no-available-copies](https://github.com/mayankmishra0801/leetcode/tree/main/3570-find-books-with-no-available-copies/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
