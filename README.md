@@ -32,6 +32,7 @@
 | [0832-flipping-an-image](https://github.com/mayankmishra0801/leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/mayankmishra0801/leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [0877-stone-game](https://github.com/mayankmishra0801/leetcode/tree/main/0877-stone-game/) | Medium |
+| [0888-fair-candy-swap](https://github.com/mayankmishra0801/leetcode/tree/main/0888-fair-candy-swap/) | Easy |
 | [0896-monotonic-array](https://github.com/mayankmishra0801/leetcode/tree/main/0896-monotonic-array/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/mayankmishra0801/leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0929-unique-email-addresses](https://github.com/mayankmishra0801/leetcode/tree/main/0929-unique-email-addresses/) | Easy |
@@ -116,6 +117,7 @@
 | [0705-design-hashset](https://github.com/mayankmishra0801/leetcode/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/mayankmishra0801/leetcode/tree/main/0706-design-hashmap/) | Easy |
 | [0771-jewels-and-stones](https://github.com/mayankmishra0801/leetcode/tree/main/0771-jewels-and-stones/) | Easy |
+| [0888-fair-candy-swap](https://github.com/mayankmishra0801/leetcode/tree/main/0888-fair-candy-swap/) | Easy |
 | [0929-unique-email-addresses](https://github.com/mayankmishra0801/leetcode/tree/main/0929-unique-email-addresses/) | Easy |
 | [1345-jump-game-iv](https://github.com/mayankmishra0801/leetcode/tree/main/1345-jump-game-iv/) | Hard |
 | [1394-find-lucky-integer-in-an-array](https://github.com/mayankmishra0801/leetcode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
@@ -202,6 +204,7 @@
 | [0441-arranging-coins](https://github.com/mayankmishra0801/leetcode/tree/main/0441-arranging-coins/) | Easy |
 | [0704-binary-search](https://github.com/mayankmishra0801/leetcode/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/mayankmishra0801/leetcode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [0888-fair-candy-swap](https://github.com/mayankmishra0801/leetcode/tree/main/0888-fair-candy-swap/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/mayankmishra0801/leetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -259,6 +262,7 @@
 | [0414-third-maximum-number](https://github.com/mayankmishra0801/leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0561-array-partition](https://github.com/mayankmishra0801/leetcode/tree/main/0561-array-partition/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/mayankmishra0801/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0888-fair-candy-swap](https://github.com/mayankmishra0801/leetcode/tree/main/0888-fair-candy-swap/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/mayankmishra0801/leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/mayankmishra0801/leetcode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1051-height-checker](https://github.com/mayankmishra0801/leetcode/tree/main/1051-height-checker/) | Easy |
