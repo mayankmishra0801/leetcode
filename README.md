@@ -28,6 +28,7 @@
 | [0705-design-hashset](https://github.com/mayankmishra0801/leetcode/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/mayankmishra0801/leetcode/tree/main/0706-design-hashmap/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/mayankmishra0801/leetcode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [0766-toeplitz-matrix](https://github.com/mayankmishra0801/leetcode/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0832-flipping-an-image](https://github.com/mayankmishra0801/leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/mayankmishra0801/leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [0877-stone-game](https://github.com/mayankmishra0801/leetcode/tree/main/0877-stone-game/) | Medium |
@@ -479,6 +480,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/mayankmishra0801/leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0766-toeplitz-matrix](https://github.com/mayankmishra0801/leetcode/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0832-flipping-an-image](https://github.com/mayankmishra0801/leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/mayankmishra0801/leetcode/tree/main/0867-transpose-matrix/) | Easy |
 ## Quickselect
