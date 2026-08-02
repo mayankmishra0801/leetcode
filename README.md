@@ -154,6 +154,7 @@
 | [0728-self-dividing-numbers](https://github.com/mayankmishra0801/leetcode/tree/main/0728-self-dividing-numbers/) | Easy |
 | [0877-stone-game](https://github.com/mayankmishra0801/leetcode/tree/main/0877-stone-game/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/mayankmishra0801/leetcode/tree/main/0976-largest-perimeter-triangle/) | Easy |
+| [1025-divisor-game](https://github.com/mayankmishra0801/leetcode/tree/main/1025-divisor-game/) | Easy |
 | [1154-day-of-the-year](https://github.com/mayankmishra0801/leetcode/tree/main/1154-day-of-the-year/) | Easy |
 | [1232-check-if-it-is-a-straight-line](https://github.com/mayankmishra0801/leetcode/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/mayankmishra0801/leetcode/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
@@ -194,6 +195,7 @@
 | [0486-predict-the-winner](https://github.com/mayankmishra0801/leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0650-2-keys-keyboard](https://github.com/mayankmishra0801/leetcode/tree/main/0650-2-keys-keyboard/) | Medium |
 | [0877-stone-game](https://github.com/mayankmishra0801/leetcode/tree/main/0877-stone-game/) | Medium |
+| [1025-divisor-game](https://github.com/mayankmishra0801/leetcode/tree/main/1025-divisor-game/) | Easy |
 | [1668-maximum-repeating-substring](https://github.com/mayankmishra0801/leetcode/tree/main/1668-maximum-repeating-substring/) | Easy |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/mayankmishra0801/leetcode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 ## Binary Search
@@ -469,11 +471,13 @@
 | [0292-nim-game](https://github.com/mayankmishra0801/leetcode/tree/main/0292-nim-game/) | Easy |
 | [0486-predict-the-winner](https://github.com/mayankmishra0801/leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/mayankmishra0801/leetcode/tree/main/0877-stone-game/) | Medium |
+| [1025-divisor-game](https://github.com/mayankmishra0801/leetcode/tree/main/1025-divisor-game/) | Easy |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/mayankmishra0801/leetcode/tree/main/0292-nim-game/) | Easy |
 | [0319-bulb-switcher](https://github.com/mayankmishra0801/leetcode/tree/main/0319-bulb-switcher/) | Medium |
+| [1025-divisor-game](https://github.com/mayankmishra0801/leetcode/tree/main/1025-divisor-game/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
