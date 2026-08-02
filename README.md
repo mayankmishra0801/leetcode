@@ -36,6 +36,7 @@
 | [0905-sort-array-by-parity](https://github.com/mayankmishra0801/leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0929-unique-email-addresses](https://github.com/mayankmishra0801/leetcode/tree/main/0929-unique-email-addresses/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/mayankmishra0801/leetcode/tree/main/0976-largest-perimeter-triangle/) | Easy |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/mayankmishra0801/leetcode/tree/main/1013-partition-array-into-three-parts-with-equal-sum/) | Easy |
 | [1051-height-checker](https://github.com/mayankmishra0801/leetcode/tree/main/1051-height-checker/) | Easy |
 | [1232-check-if-it-is-a-straight-line](https://github.com/mayankmishra0801/leetcode/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/mayankmishra0801/leetcode/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
@@ -239,6 +240,7 @@
 | [0134-gas-station](https://github.com/mayankmishra0801/leetcode/tree/main/0134-gas-station/) | Medium |
 | [0561-array-partition](https://github.com/mayankmishra0801/leetcode/tree/main/0561-array-partition/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/mayankmishra0801/leetcode/tree/main/0976-largest-perimeter-triangle/) | Easy |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/mayankmishra0801/leetcode/tree/main/1013-partition-array-into-three-parts-with-equal-sum/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/mayankmishra0801/leetcode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1323-maximum-69-number](https://github.com/mayankmishra0801/leetcode/tree/main/1323-maximum-69-number/) | Easy |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/mayankmishra0801/leetcode/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
