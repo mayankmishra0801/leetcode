@@ -450,6 +450,7 @@
 | [1741-find-total-time-spent-by-each-employee](https://github.com/mayankmishra0801/leetcode/tree/main/1741-find-total-time-spent-by-each-employee/) | Easy |
 | [1789-primary-department-for-each-employee](https://github.com/mayankmishra0801/leetcode/tree/main/1789-primary-department-for-each-employee/) | Easy |
 | [1795-rearrange-products-table](https://github.com/mayankmishra0801/leetcode/tree/main/1795-rearrange-products-table/) | Easy |
+| [1873-calculate-special-bonus](https://github.com/mayankmishra0801/leetcode/tree/main/1873-calculate-special-bonus/) | Easy |
 | [1965-employees-with-missing-information](https://github.com/mayankmishra0801/leetcode/tree/main/1965-employees-with-missing-information/) | Easy |
 | [1978-employees-whose-manager-left-the-company](https://github.com/mayankmishra0801/leetcode/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 ## Counting Sort
