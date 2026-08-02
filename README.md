@@ -17,6 +17,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mayankmishra0801/leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/mayankmishra0801/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/mayankmishra0801/leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/mayankmishra0801/leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/mayankmishra0801/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0414-third-maximum-number](https://github.com/mayankmishra0801/leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0486-predict-the-winner](https://github.com/mayankmishra0801/leetcode/tree/main/0486-predict-the-winner/) | Medium |
@@ -98,6 +99,7 @@
 | [0190-reverse-bits](https://github.com/mayankmishra0801/leetcode/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/mayankmishra0801/leetcode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/mayankmishra0801/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/mayankmishra0801/leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/mayankmishra0801/leetcode/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -190,6 +192,7 @@
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/mayankmishra0801/leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mayankmishra0801/leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/mayankmishra0801/leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/mayankmishra0801/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0441-arranging-coins](https://github.com/mayankmishra0801/leetcode/tree/main/0441-arranging-coins/) | Easy |
 | [0704-binary-search](https://github.com/mayankmishra0801/leetcode/tree/main/0704-binary-search/) | Easy |
@@ -473,6 +476,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/mayankmishra0801/leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0832-flipping-an-image](https://github.com/mayankmishra0801/leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/mayankmishra0801/leetcode/tree/main/0867-transpose-matrix/) | Easy |
 ## Quickselect
