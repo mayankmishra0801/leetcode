@@ -447,6 +447,7 @@
 | [1075-project-employees-i](https://github.com/mayankmishra0801/leetcode/tree/main/1075-project-employees-i/) | Easy |
 | [1164-product-price-at-a-given-date](https://github.com/mayankmishra0801/leetcode/tree/main/1164-product-price-at-a-given-date/) | Medium |
 | [1174-immediate-food-delivery-ii](https://github.com/mayankmishra0801/leetcode/tree/main/1174-immediate-food-delivery-ii/) | Medium |
+| [1193-monthly-transactions-i](https://github.com/mayankmishra0801/leetcode/tree/main/1193-monthly-transactions-i/) | Medium |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/mayankmishra0801/leetcode/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/mayankmishra0801/leetcode/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1517-find-users-with-valid-e-mails](https://github.com/mayankmishra0801/leetcode/tree/main/1517-find-users-with-valid-e-mails/) | Easy |
