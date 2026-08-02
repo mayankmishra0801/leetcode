@@ -474,6 +474,7 @@
 | [1965-employees-with-missing-information](https://github.com/mayankmishra0801/leetcode/tree/main/1965-employees-with-missing-information/) | Easy |
 | [1978-employees-whose-manager-left-the-company](https://github.com/mayankmishra0801/leetcode/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/mayankmishra0801/leetcode/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
+| [3220-odd-and-even-transactions](https://github.com/mayankmishra0801/leetcode/tree/main/3220-odd-and-even-transactions/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
