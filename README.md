@@ -355,6 +355,7 @@
 | [0461-hamming-distance](https://github.com/mayankmishra0801/leetcode/tree/main/0461-hamming-distance/) | Easy |
 | [0476-number-complement](https://github.com/mayankmishra0801/leetcode/tree/main/0476-number-complement/) | Easy |
 | [0832-flipping-an-image](https://github.com/mayankmishra0801/leetcode/tree/main/0832-flipping-an-image/) | Easy |
+| [1009-complement-of-base-10-integer](https://github.com/mayankmishra0801/leetcode/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/mayankmishra0801/leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
