@@ -219,6 +219,7 @@
 | [0617-merge-two-binary-trees](https://github.com/mayankmishra0801/leetcode/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/mayankmishra0801/leetcode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/mayankmishra0801/leetcode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [0897-increasing-order-search-tree](https://github.com/mayankmishra0801/leetcode/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/mayankmishra0801/leetcode/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1306-jump-game-iii](https://github.com/mayankmishra0801/leetcode/tree/main/1306-jump-game-iii/) | Medium |
 ## Breadth-First Search
@@ -328,6 +329,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/mayankmishra0801/leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0897-increasing-order-search-tree](https://github.com/mayankmishra0801/leetcode/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/mayankmishra0801/leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mayankmishra0801/leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Prefix Sum
@@ -390,6 +392,7 @@
 | [0617-merge-two-binary-trees](https://github.com/mayankmishra0801/leetcode/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/mayankmishra0801/leetcode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/mayankmishra0801/leetcode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [0897-increasing-order-search-tree](https://github.com/mayankmishra0801/leetcode/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/mayankmishra0801/leetcode/tree/main/0965-univalued-binary-tree/) | Easy |
 | [2236-root-equals-sum-of-children](https://github.com/mayankmishra0801/leetcode/tree/main/2236-root-equals-sum-of-children/) | Easy |
 ## Binary Tree
@@ -405,6 +408,7 @@
 | [0617-merge-two-binary-trees](https://github.com/mayankmishra0801/leetcode/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/mayankmishra0801/leetcode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/mayankmishra0801/leetcode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [0897-increasing-order-search-tree](https://github.com/mayankmishra0801/leetcode/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/mayankmishra0801/leetcode/tree/main/0965-univalued-binary-tree/) | Easy |
 | [2236-root-equals-sum-of-children](https://github.com/mayankmishra0801/leetcode/tree/main/2236-root-equals-sum-of-children/) | Easy |
 ## Database
@@ -467,6 +471,7 @@
 | ------- | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/mayankmishra0801/leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/mayankmishra0801/leetcode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [0897-increasing-order-search-tree](https://github.com/mayankmishra0801/leetcode/tree/main/0897-increasing-order-search-tree/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
