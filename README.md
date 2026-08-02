@@ -223,6 +223,7 @@
 | [0783-minimum-distance-between-bst-nodes](https://github.com/mayankmishra0801/leetcode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0897-increasing-order-search-tree](https://github.com/mayankmishra0801/leetcode/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/mayankmishra0801/leetcode/tree/main/0965-univalued-binary-tree/) | Easy |
+| [0993-cousins-in-binary-tree](https://github.com/mayankmishra0801/leetcode/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1306-jump-game-iii](https://github.com/mayankmishra0801/leetcode/tree/main/1306-jump-game-iii/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -237,6 +238,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/mayankmishra0801/leetcode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/mayankmishra0801/leetcode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/mayankmishra0801/leetcode/tree/main/0965-univalued-binary-tree/) | Easy |
+| [0993-cousins-in-binary-tree](https://github.com/mayankmishra0801/leetcode/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1306-jump-game-iii](https://github.com/mayankmishra0801/leetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/mayankmishra0801/leetcode/tree/main/1345-jump-game-iv/) | Hard |
 ## Greedy
@@ -397,6 +399,7 @@
 | [0783-minimum-distance-between-bst-nodes](https://github.com/mayankmishra0801/leetcode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0897-increasing-order-search-tree](https://github.com/mayankmishra0801/leetcode/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/mayankmishra0801/leetcode/tree/main/0965-univalued-binary-tree/) | Easy |
+| [0993-cousins-in-binary-tree](https://github.com/mayankmishra0801/leetcode/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [2236-root-equals-sum-of-children](https://github.com/mayankmishra0801/leetcode/tree/main/2236-root-equals-sum-of-children/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -413,6 +416,7 @@
 | [0783-minimum-distance-between-bst-nodes](https://github.com/mayankmishra0801/leetcode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0897-increasing-order-search-tree](https://github.com/mayankmishra0801/leetcode/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/mayankmishra0801/leetcode/tree/main/0965-univalued-binary-tree/) | Easy |
+| [0993-cousins-in-binary-tree](https://github.com/mayankmishra0801/leetcode/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [2236-root-equals-sum-of-children](https://github.com/mayankmishra0801/leetcode/tree/main/2236-root-equals-sum-of-children/) | Easy |
 ## Database
 | Problem Name | Difficulty |
