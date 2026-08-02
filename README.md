@@ -435,6 +435,7 @@
 | [0550-game-play-analysis-iv](https://github.com/mayankmishra0801/leetcode/tree/main/0550-game-play-analysis-iv/) | Medium |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/mayankmishra0801/leetcode/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0577-employee-bonus](https://github.com/mayankmishra0801/leetcode/tree/main/0577-employee-bonus/) | Easy |
+| [0585-investments-in-2016](https://github.com/mayankmishra0801/leetcode/tree/main/0585-investments-in-2016/) | Medium |
 | [0607-sales-person](https://github.com/mayankmishra0801/leetcode/tree/main/0607-sales-person/) | Easy |
 | [0610-triangle-judgement](https://github.com/mayankmishra0801/leetcode/tree/main/0610-triangle-judgement/) | Easy |
 | [0619-biggest-single-number](https://github.com/mayankmishra0801/leetcode/tree/main/0619-biggest-single-number/) | Easy |
