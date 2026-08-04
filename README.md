@@ -74,6 +74,7 @@
 | [2798-number-of-employees-who-met-the-target](https://github.com/mayankmishra0801/leetcode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/mayankmishra0801/leetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/mayankmishra0801/leetcode/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
+| [3731-find-missing-elements](https://github.com/mayankmishra0801/leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/mayankmishra0801/leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mayankmishra0801/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/mayankmishra0801/leetcode/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
@@ -132,6 +133,7 @@
 | [1832-check-if-the-sentence-is-pangram](https://github.com/mayankmishra0801/leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/mayankmishra0801/leetcode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mayankmishra0801/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3731-find-missing-elements](https://github.com/mayankmishra0801/leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/mayankmishra0801/leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3945-digit-frequency-score](https://github.com/mayankmishra0801/leetcode/tree/main/3945-digit-frequency-score/) | Easy |
 ## Math
@@ -285,6 +287,7 @@
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/mayankmishra0801/leetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mayankmishra0801/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/mayankmishra0801/leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3731-find-missing-elements](https://github.com/mayankmishra0801/leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mayankmishra0801/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## String
 | Problem Name | Difficulty |
