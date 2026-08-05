@@ -232,6 +232,7 @@
 | [0965-univalued-binary-tree](https://github.com/mayankmishra0801/leetcode/tree/main/0965-univalued-binary-tree/) | Easy |
 | [0993-cousins-in-binary-tree](https://github.com/mayankmishra0801/leetcode/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1306-jump-game-iii](https://github.com/mayankmishra0801/leetcode/tree/main/1306-jump-game-iii/) | Medium |
+| [3310-remove-methods-from-project](https://github.com/mayankmishra0801/leetcode/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -248,6 +249,7 @@
 | [0993-cousins-in-binary-tree](https://github.com/mayankmishra0801/leetcode/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1306-jump-game-iii](https://github.com/mayankmishra0801/leetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/mayankmishra0801/leetcode/tree/main/1345-jump-game-iv/) | Hard |
+| [3310-remove-methods-from-project](https://github.com/mayankmishra0801/leetcode/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -556,4 +558,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/mayankmishra0801/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3310-remove-methods-from-project](https://github.com/mayankmishra0801/leetcode/tree/main/3310-remove-methods-from-project/) | Medium |
 <!---LeetCode Topics End-->
