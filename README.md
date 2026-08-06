@@ -172,6 +172,7 @@
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mayankmishra0801/leetcode/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2544-alternating-digit-sum](https://github.com/mayankmishra0801/leetcode/tree/main/2544-alternating-digit-sum/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mayankmishra0801/leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/mayankmishra0801/leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/mayankmishra0801/leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mayankmishra0801/leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/mayankmishra0801/leetcode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
@@ -543,6 +544,7 @@
 | ------- | ------- |
 | [2427-number-of-common-factors](https://github.com/mayankmishra0801/leetcode/tree/main/2427-number-of-common-factors/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/mayankmishra0801/leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/mayankmishra0801/leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
